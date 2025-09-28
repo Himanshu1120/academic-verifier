@@ -120,7 +120,7 @@ const VerifyDocument = () => {
       </div>
 
       <div className="supported-formats">
-        <p>Supports PDF, JPG, JPEG, PNG (Max 10MB)</p>
+        <p>Currently Supports PNG Format Only (Max 10MB)</p>
       </div>
 
       <button 
